@@ -1,0 +1,14 @@
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\bin\Debug\net8.0\DELETE_THIS.exe
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\bin\Debug\net8.0\DELETE_THIS.deps.json
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\bin\Debug\net8.0\DELETE_THIS.runtimeconfig.json
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\bin\Debug\net8.0\DELETE_THIS.dll
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\bin\Debug\net8.0\DELETE_THIS.pdb
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\obj\Debug\net8.0\DELETE_THIS.GeneratedMSBuildEditorConfig.editorconfig
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\obj\Debug\net8.0\DELETE_THIS.AssemblyInfoInputs.cache
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\obj\Debug\net8.0\DELETE_THIS.AssemblyInfo.cs
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\obj\Debug\net8.0\DELETE_THIS.csproj.CoreCompileInputs.cache
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\obj\Debug\net8.0\DELETE_THIS.dll
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\obj\Debug\net8.0\refint\DELETE_THIS.dll
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\obj\Debug\net8.0\DELETE_THIS.pdb
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\obj\Debug\net8.0\DELETE_THIS.genruntimeconfig.cache
+A:\CSharp\Projects\DELETE_THIS\DELETE_THIS\obj\Debug\net8.0\ref\DELETE_THIS.dll
